@@ -4,4 +4,4 @@ NPM     : 2106751505
 
 Kelas   : E
 
-Hobi    : Dengerin musik
+Hobi    : Makan
